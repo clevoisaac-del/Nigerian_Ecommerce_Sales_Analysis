@@ -64,3 +64,4 @@ The project highlights important areas including sales performance, product conc
 Project Notebook
 
 The complete analysis, including the Python code, calculations, and visualizations, is available in the Jupyter Notebook included in this repository.
+o
