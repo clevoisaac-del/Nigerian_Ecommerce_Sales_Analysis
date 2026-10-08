@@ -75,3 +75,4 @@ Monthly Sales Trend
 This visualization shows how sales performance changed over the period analyzed, helping identify monthly patterns and potential areas for business improvement.
 
 "Monthly Sales Trend" (monthly_sales_trend.png)
+o
