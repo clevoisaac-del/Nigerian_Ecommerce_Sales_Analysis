@@ -70,3 +70,8 @@ The complete analysis, including the Python code, calculations, and visualizatio
 The analysis shows that Lagos generated the highest sales, significantly outperforming Oyo and Ogun.
 
 ![Sales by Branch](sales_by_branch.png)
+Monthly Sales Trend
+
+This visualization shows how sales performance changed over the period analyzed, helping identify monthly patterns and potential areas for business improvement.
+
+"Monthly Sales Trend" (monthly_sales_trend.png)
