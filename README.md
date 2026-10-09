@@ -93,7 +93,7 @@ The monthly sales trend provides a view of how revenue changed between February 
 Business recommendation: The business should investigate the factors behind monthly revenue changes and use the findings to improve sales planning.
 
 3. Order Cancellations Require Attention
-
+The analysis found that 61.68% of unique orders contained at least one cancelled item (1,484 out of 2,406 orders). This metric identifies orders affected by cancellations; it does not necessarily mean that every item in those orders was cancelled.
 The analysis identified a substantial number of cancelled orders. Cancellations can affect revenue realization, inventory planning, delivery costs, and customer experience.
 
 Business recommendation: Management should investigate cancellation reasons, monitor cancellation rates, and develop strategies to reduce avoidable cancellations.
