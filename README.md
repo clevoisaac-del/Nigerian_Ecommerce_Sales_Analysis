@@ -26,6 +26,20 @@ Tools Used
 - Excel
 - Jupyter Notebook
 
+  Methodology
+
+The analysis followed these steps:
+
+1. Data Loading: Loaded the Nigerian E-commerce Sales Dataset into Python using pandas.
+2. Data Inspection: Examined the dataset's structure, column names, data types, and summary statistics.
+3. Data Quality Checks: Checked order records, item statuses, and relevant fields to understand the dataset and identify potential data-quality issues.
+4. Sales Analysis: Calculated total sales, total quantity sold, number of unique orders, and average order value.
+5. Product Analysis: Identified top-selling products and calculated their contribution to total sales.
+6. Branch Analysis: Compared sales performance across branches.
+7. Trend Analysis: Examined monthly sales trends and order-status patterns.
+8. Data Visualization: Created charts to communicate key findings clearly.
+9. Business Recommendations: Used the results to identify opportunities for improving sales performance and reducing cancellations.
+
 Key Findings
 
 - Total sales generated were approximately ₦1.78 billion.
