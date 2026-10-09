@@ -111,7 +111,7 @@ This project demonstrates the use of Python, Pandas, and Matplotlib to analyze N
 The analysis explored revenue performance, branch comparisons, monthly sales trends, product contributions, and order cancellations. The findings highlight opportunities to improve sales planning, inventory management, and order fulfillment.
 
 Through this project, I applied data analysis techniques to a real-world business dataset and developed recommendations to support data-driven decision-making.
-
+o
 Skills Demonstrated
 
 - Data cleaning and preparation
