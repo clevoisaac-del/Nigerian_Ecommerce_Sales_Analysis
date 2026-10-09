@@ -77,3 +77,29 @@ Monthly Sales Trend
 This visualization shows how sales performance changed over the period analyzed, helping identify monthly patterns and potential areas for business improvement.
 
 ![Monthly Sales Trend](monthly_sales_trend.png)
+
+Key Business Insights
+
+1. Lagos Dominates Sales Performance
+
+Lagos generated approximately ₦1.74 billion in sales, significantly exceeding the sales recorded in Oyo and Ogun. This indicates that sales were heavily concentrated in Lagos during the period analyzed.
+
+Business recommendation: Management should investigate the factors driving Lagos's performance and assess opportunities to improve sales in other branches.
+
+2. Monthly Sales Performance Needs Monitoring
+
+The monthly sales trend provides a view of how revenue changed between February and May 2021. Monitoring these changes can help management identify periods of strong or weak performance.
+
+Business recommendation: The business should investigate the factors behind monthly revenue changes and use the findings to improve sales planning.
+
+3. Order Cancellations Require Attention
+
+The analysis identified a substantial number of cancelled orders. Cancellations can affect revenue realization, inventory planning, delivery costs, and customer experience.
+
+Business recommendation: Management should investigate cancellation reasons, monitor cancellation rates, and develop strategies to reduce avoidable cancellations.
+
+4. Sales Are Concentrated Among Top Products
+
+The top 10 products contributed approximately 58.43% of total sales, indicating that a relatively small group of products accounted for a substantial share of revenue.
+
+Business recommendation: The business should monitor stock availability for high-performing products while exploring ways to improve the performance of other products.
