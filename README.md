@@ -72,7 +72,8 @@ The analysis shows that Lagos generated the highest sales, significantly outperf
 ![Sales by Branch](sales_by_branch.png)
 Monthly Sales Trend
 
+Monthly Sales Trend
+
 This visualization shows how sales performance changed over the period analyzed, helping identify monthly patterns and potential areas for business improvement.
 
 "Monthly Sales Trend" (monthly_sales_trend.png)
-o
