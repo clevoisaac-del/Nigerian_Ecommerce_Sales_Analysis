@@ -103,3 +103,28 @@ Business recommendation: Management should investigate cancellation reasons, mon
 The top 10 products contributed approximately 58.43% of total sales, indicating that a relatively small group of products accounted for a substantial share of revenue.
 
 Business recommendation: The business should monitor stock availability for high-performing products while exploring ways to improve the performance of other products.
+
+Conclusion
+
+This project demonstrates the use of Python, Pandas, and Matplotlib to analyze Nigerian e-commerce sales data and generate actionable business insights.
+
+The analysis explored revenue performance, branch comparisons, monthly sales trends, product contributions, and order cancellations. The findings highlight opportunities to improve sales planning, inventory management, and order fulfillment.
+
+Through this project, I applied data analysis techniques to a real-world business dataset and developed recommendations to support data-driven decision-making.
+
+Skills Demonstrated
+
+- Data cleaning and preparation
+- Exploratory data analysis (EDA)
+- Python and Pandas
+- Data aggregation and KPI analysis
+- Data visualization with Matplotlib
+- Business insights and recommendations
+- Communicating analytical findings
+
+Author
+
+Joel Dimkpa
+
+- "GitHub" (https://github.com/clevoisaac-del)
+- "LinkedIn" (https://www.linkedin.com/in/joel-dimkpa-8ba67a12b)
