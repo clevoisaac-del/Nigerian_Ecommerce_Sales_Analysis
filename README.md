@@ -100,8 +100,8 @@ Business recommendation: Management should investigate cancellation reasons, mon
 
 4. Sales Are Concentrated Among Top Products
 
-The top 10 products contributed approximately 58.43% of total sales, indicating that a relatively small group of products accounted for a substantial share of revenue.
 
+Top 10 Products Insight: The top 10 products generated ₦1,041,871,689.00 in sales, representing 58.43% of total sales of ₦1,783,045,294.76. This indicates that a substantial share of revenue comes from a relatively small group of products.
 Business recommendation: The business should monitor stock availability for high-performing products while exploring ways to improve the performance of other products.
 
 Conclusion
